@@ -35,7 +35,7 @@ scipy (distance calculation)
 
 📥 Installation
 1. Clone the repository
-git clone https://github.com/harikishan-45/Driver-Drowsiness-Detection.git
+git clone https://github.com/Kapilsks/Drowsiness-Detection-using-Dlib-.git
 cd Driver-Drowsiness-Detection
 
 2. Install dependencies
